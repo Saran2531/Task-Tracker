@@ -28,3 +28,7 @@ Thumbs.db
 *.trace.db
 *.lock.db
 .internal/
+
+# Local guides
+EXPLANATION_GUIDE*
+
